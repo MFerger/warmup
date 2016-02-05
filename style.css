@@ -1,0 +1,60 @@
+.green {
+  height: 50px;
+  width: 50px;
+  padding:10, 50, 10;
+  background-color: green;
+}
+.green1 {
+  height: 75px;
+  width: 75px;
+  margin-top: 50px;
+  margin-left: 30px;
+  border: solid green 2px;
+}
+.green2 {
+  height: 200px;
+  width: 200px;
+  margin-left: 30px;
+  border: dashed green 3px;
+}
+div {
+  position: relative;
+  display: inline-block;
+}
+.green3 {
+  height: 150px;
+  width: 150px;
+  margin-left: 30px;
+  margin-top: 100px;
+  border: dotted green 4px;
+}
+.green4 {
+  height: 166px;
+  width: 166px;
+  margin-left: 30px;
+  background-color: green;
+  border: dotted white 3px;
+}
+.green5 {
+  height: 200px;
+  width: 200px;
+  margin-left: 30px;
+  background-color: green;
+  border: dashed white 4px;
+}
+.green6 {
+  height: 120px;
+  width: 120px;
+  margin-left: 30px;
+  border: solid darkgreen 2px;
+  background-color: lime;
+}
+td {
+  width: 60px;
+  height: 60px;
+  border: 2px solid darkgreen;
+  background-color: lime;
+}
+body {
+  padding: 1px;
+}
