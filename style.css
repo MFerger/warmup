@@ -60,6 +60,6 @@ td:hover {
   width: 120px;
   height: 120px;
   border: 2px solid darkgreen;
-  background-color: lime;
+  background-color: darkgreen;
   transition-duration: 1s;
 }
